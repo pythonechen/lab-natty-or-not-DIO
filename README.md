@@ -20,32 +20,37 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Descobrimento do Brasil estilho FW
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Texto sobre o descobrimento do Brasil no estilo de Finnegans Wake, do James Joyce
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+informei o prompt e selecionei o texto que me pareceu mais próximo do texto original
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Certo, vamos criar algo que capture o estilo complexo, onírico e experimental de Finnegans Wake de James Joyce, mas tematizando o "descobrimento" do Brasil. O texto será cheio de jogos de palavras, neologismos e referências históricas distorcidas. Vou começar:
+
+Em mares de brumamor, lá donde o sol se faz espelho no salgado, vem o luso-caravão, desbravalhando ondas que sussurram lendas ao timão errante. "Oh, terra vista!", clamou o cantador da proa, mal imaginando as verdesbrasílicas matas que espiavam de longe, sibilinas.
+
+Brava foi a mata que cochichou aos ventos, "quem és, oh barco que corta meu sono? És sonho ou sombra de pássaro de pau?" Mas os homens, de espadaventura e cruz no peito, já desenrolavam suas redes de ambição. O chão vermelho, de sangue ou barro, vibrava sob os passos do primeiro desbotador de terras.
+
+"Oh, Tupã, não és visto aqui senão em ecos?", pergunta-se a voz das árvores, tremulhando seus ramos como velhos sábios. Mas já, já, os nomes caem como os pingos d’ouro: Vera Cruz, Santa Cruz, Cruz que esmaga! E no chão-cruzado, canta o canto melancômico do pau-brasil, o rubriscente do tintamor.
+
+E os nativos, os gentebrasis, olhavam, perplexos, os de pele de lua e boca de trovão. "Quem sois, vultos que trazem espelhos mágicos e espadas que cortam alma e folha?" E os lusitanos, risonhoperdidos, já dividiam em mapas as linhas daquilo que não compreendiam.
+
+Em sonhos de cana doce e ouro iludido, o Brasil nascia — ou era devorado.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Já havia tentado pedir em versões passadas do chatGPT emular o estilo onírico e onívoro do livrvo joyceano. Anteriormente o ChatGPT não conseguia produzir, mas agora ele consegue resultados satisfatórios. Destaque para as palavras-valises (junção de duas palavras amalgamadas, como em smog), que são a marca registrada do James Joyce (brumamor, desbravalhando, melancômico). Ainda faltou a junção de palavras de línguas diferentes, como Joyce o faz no livro
 ```
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+
 
 ## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Finnegans Wake comentado (em inglês): https://finwake.com/
